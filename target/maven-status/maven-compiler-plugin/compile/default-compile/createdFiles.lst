@@ -1,0 +1,7 @@
+com\lfa\web\project\DAO\ColorDAO.class
+com\lfa\web\project\controller\DefaulController.class
+com\lfa\web\project\AppInitializer.class
+com\lfa\web\project\DAO\ColorDAOJdbcImpl$1.class
+com\lfa\web\project\DAO\ColorDAOJdbcImpl.class
+com\lfa\web\project\MvcConfigurer.class
+com\lfa\web\project\entity\Color.class
